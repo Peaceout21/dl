@@ -2,7 +2,7 @@
 """
 Created on Tue May 29 17:10:45 2018
 
-@author: User
+@author: Arjun: 2 layer NN
 """
 import numpy as np
 def sigmoid(x):
